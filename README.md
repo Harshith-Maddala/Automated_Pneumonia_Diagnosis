@@ -14,7 +14,7 @@ However, it is critical to emphasize that such models should not make final medi
 
 ## Literature Review
 1. Automated detection of pneumonia cases using deep transfer learning with paediatric chest X-ray images
-Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC8506182/
+\nLink: https://pmc.ncbi.nlm.nih.gov/articles/PMC8506182/
 This study aimed to detect pneumonia in children using chest X-rays by applying deep learning models with transfer learning. Four pre-trained convolutional neural networks: VGG19, DenseNet121, Xception, and ResNet50, were tested and DenseNet121 has performed better compared to others. Transfer learning helped overcome the challenge of limited data. 
 Insights:
 The study showed that models such as ResNet50 and DenseNet121 worked really well and could be used as base models for our project
