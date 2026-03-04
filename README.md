@@ -1,2 +1,10 @@
-# Automated_Pneumonia_Diagnosis
-This Project aims to help diagnosis Pneumonia  from X-rays using Deep Learning
+# Deep Learning Based Detection of Thorax Diseases from Chest X-rays with Confidence Estimation
+
+## Background
+Thoracic diseases alone account for millions of deaths globally each year. Pneumonia alone remains as one of the leading causes of deaths, especially among older adults and immune compromised individuals. In the United States, chronic lower respiratory diseases collectively rank among the top ten leading causes of deaths. Globally, lower respiratory infections are responsible for over 2 million deaths per year, underscoring their persistent severity. The severity of thoracic diseases is not only in their mortality rates but also in their potential for rapid deterioration. Many of these conditions can progress quickly, requiring timely diagnosis and intervention to prevent complications such as sepsis, acute respiratory distress syndrome (ARDS), or multi-organ failure. In addition, broader burden includes recurrent hospitalizations, reduced quality of life, long-term disability, and increased strain on emergency and intensive care services. 
+Given their frequency, severity, and potential for acute deterioration, thoracic diseases remain a critical public health challenge. Early and accurate detection is essential to improving patient outcomes, reducing preventable deaths, and strengthening healthcare delivery systems.
+
+## Problem Statement
+Every year in US, around 55,000 people die due to  pneumonia alone. Quick and accurate detection is crucial because delays or mistakes can lead to worsening health conditions or even death. Chest X-rays are often best tools to detect common lung, chest and other thoracic diseases. Recent Deep Learning Models can identify these diseases with high accuracy on large datasets, but their predictions can be overconfident and sometimes unreliable. Most current models do not clearly indicate how certain they are about a detection, which is a problem because understanding of how trustworthy the result is as important as detection of the diseases. This gap between high accuracy in tests and real-world reliability makes it important to build systems that are both accurate and provide clear, trustworthy confidence in their predictions.
+
+
