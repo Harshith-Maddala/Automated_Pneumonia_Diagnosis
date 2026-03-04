@@ -31,7 +31,7 @@ This paper proposes CheXNet, a deep convolutional neural network based on DenseN
 Insights:
 They are one of the firsts to work on a large datasets on this topic and has achieved commendable results which are even better than experienced radiologists. 
 
-4. CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning (NEW)
+4. CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
 Link: https://arxiv.org/pdf/1711.05225
 This paper introduced CheXNet, a 121-layer Dense Convolutional Network (DenseNet121) designed to detect pneumonia from chest X-ray images. The study aimed to develop a deep learning model capable of performing at or above radiologist level in pneumonia detection. CheXNet achieved performance comparable to, and slightly exceeding, practicing radiologists in terms of F1 score for pneumonia detection. 
 Insights:
