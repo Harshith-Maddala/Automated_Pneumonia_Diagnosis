@@ -38,5 +38,6 @@ Insights:
 They also included the importance of modeling uncertainty in medical labels rather than ignoring or removing ambiguous cases, since different uncertainty handling strategies can significantly impact performance across pathologies.
 
 
-
+Link to Best Models .pth file:
+- https://drive.google.com/drive/folders/1ijOhKqQDK9fNlnbICkHVj-YRpkARBBHd?usp=drive_link
 
